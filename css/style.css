@@ -491,7 +491,7 @@ body {
 }
 
 /* レスポンシブデザイン */
-@media screen and (max-width: 481px) {
+@media screen and (max-width: 768px) {
   /* ハンバーガーメニュー */
   #hamburger {
     width: 40px;
